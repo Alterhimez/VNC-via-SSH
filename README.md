@@ -1,9 +1,5 @@
 # VNC-via-SSH
-VNC via SSH python program by Alterhimez. Needs to use some external vnc viewer such as TightVNC (tested) RealVNC or UltraVNC
-
-# x11vnc SSH+SSL Viewer
-
-A small Windows GUI launcher that connects to an **x11vnc server started with `-ssl`** through an **SSH tunnel**, then opens your normal VNC viewer (TigerVNC, TightVNC, RealVNC, UltraVNC).
+VNC via SSH python program by Alterhimez. Needs to use some external vnc viewer such as TightVNC (tested), TigerVNC, RealVNC, UltraVNC
 
 ## Why
 
